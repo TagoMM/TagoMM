@@ -14,8 +14,6 @@ I am finishing my Bachelor's Degree in Computer Science & Engineering and workin
 * Nationality: Portuguese
 * Age: 20 years 
 * From: Sertã, Portugal
-* Socials:
-	+ [![](https://www.linkedin.com/in/tiago-mar%C3%A7al-8a2709220/)
 * IDE/Code editors:
 	+ ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 	+ ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
