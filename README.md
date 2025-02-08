@@ -24,7 +24,7 @@ I am finishing my Bachelor's Degree in Computer Science & Engineering and workin
 	+ ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 	+ ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-## Skills in (or experiences with):  
+## Skills:  
 #### Programming Languages:
 ###### Back-end:
 ![](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120) 
