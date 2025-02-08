@@ -42,7 +42,7 @@ I am finishing my Bachelor's Degree in Computer Science & Engineering and workin
 <br>
 <a href="https://github.com/inesmarcal">
   	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inesmarcal&theme=dracula" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TagoMM&theme=dracula" />
 	</p>
 </a>
 
