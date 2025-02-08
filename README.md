@@ -19,7 +19,6 @@ I am finishing my Bachelor's Degree in Computer Science & Engineering and workin
 * IDE/Code editors:
 	+ ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 	+ ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
-	+ ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 * OS: 
 	+ ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 	+ ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
